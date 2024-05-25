@@ -1,25 +1,32 @@
-// const fs = require('fs/promises')
-import products from "./products.json" assert { type: "json" };
+import mongoose from "mongoose";
+const { Schema, model } = mongoose;
 
-const ProductsService = {
-  listProducts,
-  getProductsById,
-};
+/* Numele Modelul -> Colectia cu litera mica si la plural, 
 
-async function listProducts() {
-  return products;
-}
+Product -> products,
+User    -> users,
+Task    -> tasks
+*/
+const schema = new Schema(
+  {
+    name: {
+      type: String,
+      minLength: 2,
+      maxLength: 300,
+      required: true,
+      unique: true,
+    },
+    size: {
+      type: Number,
+    },
+    type: {
+      type: String,
+      enum: ["shoe", "tshirt"],
+    },
+    // Pot eu sa specific in mod direct numele colectiei de care o sa fie legat modelul
+  },
+  { collection: "products" } // camp optional, daca numele colectiei difera
+);
+const Product = model("Product", schema);
 
-async function getProductsById(id) {
-  return products.find((el) => el.id === id);
-}
-
-// const getContactById = async (contactId) => {};
-
-// const removeContact = async (contactId) => {};
-
-// const addContact = async (body) => {};
-
-// const updateContact = async (contactId, body) => {};
-
-export default ProductsService;
+export default Product;

@@ -1,0 +1,504 @@
+[
+  {
+    "id": 70,
+    "name": "Esdras",
+    "yearOfBirth": 1956
+  },
+  {
+    "id": 22,
+    "name": "Rozalin",
+    "yearOfBirth": 1979
+  },
+  {
+    "id": 75,
+    "name": "Kendell",
+    "yearOfBirth": 1984
+  },
+  {
+    "id": 46,
+    "name": "Christy",
+    "yearOfBirth": 1985
+  },
+  {
+    "id": 27,
+    "name": "Jonas",
+    "yearOfBirth": 1986
+  },
+  {
+    "id": 45,
+    "name": "Ferd",
+    "yearOfBirth": 1986
+  },
+  {
+    "id": 87,
+    "name": "Aubert",
+    "yearOfBirth": 1986
+  },
+  {
+    "id": 94,
+    "name": "Sallee",
+    "yearOfBirth": 1987
+  },
+  {
+    "id": 10,
+    "name": "Vivyanne",
+    "yearOfBirth": 1988
+  },
+  {
+    "id": 28,
+    "name": "Nina",
+    "yearOfBirth": 1988
+  },
+  {
+    "id": 51,
+    "name": "Zilvia",
+    "yearOfBirth": 1989
+  },
+  {
+    "id": 93,
+    "name": "Rolando",
+    "yearOfBirth": 1989
+  },
+  {
+    "id": 24,
+    "name": "Valera",
+    "yearOfBirth": 1990
+  },
+  {
+    "id": 63,
+    "name": "Karylin",
+    "yearOfBirth": 1990
+  },
+  {
+    "id": 39,
+    "name": "Andre",
+    "yearOfBirth": 1991
+  },
+  {
+    "id": 55,
+    "name": "Gabriela",
+    "yearOfBirth": 1991
+  },
+  {
+    "id": 4,
+    "name": "Angie",
+    "yearOfBirth": 1992
+  },
+  {
+    "id": 14,
+    "name": "Nicholas",
+    "yearOfBirth": 1992
+  },
+  {
+    "id": 52,
+    "name": "Linea",
+    "yearOfBirth": 1992
+  },
+  {
+    "id": 74,
+    "name": "Ferrell",
+    "yearOfBirth": 1992
+  },
+  {
+    "id": 77,
+    "name": "Rona",
+    "yearOfBirth": 1992
+  },
+  {
+    "id": 57,
+    "name": "Aguistin",
+    "yearOfBirth": 1993
+  },
+  {
+    "id": 62,
+    "name": "Ruby",
+    "yearOfBirth": 1993
+  },
+  {
+    "id": 73,
+    "name": "Dianna",
+    "yearOfBirth": 1993
+  },
+  {
+    "id": 82,
+    "name": "Clayton",
+    "yearOfBirth": 1993
+  },
+  {
+    "id": 84,
+    "name": "Turner",
+    "yearOfBirth": 1993
+  },
+  {
+    "id": 95,
+    "name": "Esmeralda",
+    "yearOfBirth": 1993
+  },
+  {
+    "id": 88,
+    "name": "Shaun",
+    "yearOfBirth": 1994
+  },
+  {
+    "id": 6,
+    "name": "Adelaide",
+    "yearOfBirth": 1995
+  },
+  {
+    "id": 19,
+    "name": "Roi",
+    "yearOfBirth": 1995
+  },
+  {
+    "id": 32,
+    "name": "Naomi",
+    "yearOfBirth": 1995
+  },
+  {
+    "id": 42,
+    "name": "Deni",
+    "yearOfBirth": 1995
+  },
+  {
+    "id": 72,
+    "name": "Tabatha",
+    "yearOfBirth": 1995
+  },
+  {
+    "id": 34,
+    "name": "Cy",
+    "yearOfBirth": 1996
+  },
+  {
+    "id": 47,
+    "name": "Hortensia",
+    "yearOfBirth": 1996
+  },
+  {
+    "id": 81,
+    "name": "Brana",
+    "yearOfBirth": 1996
+  },
+  {
+    "id": 97,
+    "name": "Dorene",
+    "yearOfBirth": 1996
+  },
+  {
+    "id": 20,
+    "name": "Godfry",
+    "yearOfBirth": 1997
+  },
+  {
+    "id": 33,
+    "name": "Charmian",
+    "yearOfBirth": 1997
+  },
+  {
+    "id": 61,
+    "name": "Alvina",
+    "yearOfBirth": 1997
+  },
+  {
+    "id": 78,
+    "name": "Payton",
+    "yearOfBirth": 1997
+  },
+  {
+    "id": 80,
+    "name": "Sigismond",
+    "yearOfBirth": 1997
+  },
+  {
+    "id": 68,
+    "name": "Angeline",
+    "yearOfBirth": 1998
+  },
+  {
+    "id": 2,
+    "name": "Pamelina",
+    "yearOfBirth": 1999
+  },
+  {
+    "id": 59,
+    "name": "Jock",
+    "yearOfBirth": 1999
+  },
+  {
+    "id": 96,
+    "name": "Marielle",
+    "yearOfBirth": 1999
+  },
+  {
+    "id": 30,
+    "name": "Griz",
+    "yearOfBirth": 2000
+  },
+  {
+    "id": 36,
+    "name": "Farris",
+    "yearOfBirth": 2000
+  },
+  {
+    "id": 43,
+    "name": "Nichole",
+    "yearOfBirth": 2000
+  },
+  {
+    "id": 49,
+    "name": "Alli",
+    "yearOfBirth": 2000
+  },
+  {
+    "id": 60,
+    "name": "Austine",
+    "yearOfBirth": 2000
+  },
+  {
+    "id": 69,
+    "name": "Flossie",
+    "yearOfBirth": 2000
+  },
+  {
+    "id": 85,
+    "name": "Edgard",
+    "yearOfBirth": 2000
+  },
+  {
+    "id": 21,
+    "name": "Goldia",
+    "yearOfBirth": 2001
+  },
+  {
+    "id": 79,
+    "name": "Levon",
+    "yearOfBirth": 2001
+  },
+  {
+    "id": 16,
+    "name": "Floria",
+    "yearOfBirth": 2002
+  },
+  {
+    "id": 64,
+    "name": "Emmalee",
+    "yearOfBirth": 2002
+  },
+  {
+    "id": 66,
+    "name": "Dulce",
+    "yearOfBirth": 2002
+  },
+  {
+    "id": 54,
+    "name": "Nertie",
+    "yearOfBirth": 2003
+  },
+  {
+    "id": 37,
+    "name": "Lucila",
+    "yearOfBirth": 2004
+  },
+  {
+    "id": 7,
+    "name": "Nicola",
+    "yearOfBirth": 2005
+  },
+  {
+    "id": 15,
+    "name": "Verena",
+    "yearOfBirth": 2005
+  },
+  {
+    "id": 23,
+    "name": "Jonathon",
+    "yearOfBirth": 2005
+  },
+  {
+    "id": 40,
+    "name": "Caritta",
+    "yearOfBirth": 2005
+  },
+  {
+    "id": 56,
+    "name": "Prince",
+    "yearOfBirth": 2005
+  },
+  {
+    "id": 86,
+    "name": "Ash",
+    "yearOfBirth": 2005
+  },
+  {
+    "id": 90,
+    "name": "Corry",
+    "yearOfBirth": 2005
+  },
+  {
+    "id": 29,
+    "name": "Truman",
+    "yearOfBirth": 2006
+  },
+  {
+    "id": 31,
+    "name": "Myrah",
+    "yearOfBirth": 2006
+  },
+  {
+    "id": 35,
+    "name": "Maighdiln",
+    "yearOfBirth": 2006
+  },
+  {
+    "id": 38,
+    "name": "Barb",
+    "yearOfBirth": 2006
+  },
+  {
+    "id": 58,
+    "name": "Harp",
+    "yearOfBirth": 2006
+  },
+  {
+    "id": 91,
+    "name": "Mayor",
+    "yearOfBirth": 2006
+  },
+  {
+    "id": 92,
+    "name": "Joleen",
+    "yearOfBirth": 2006
+  },
+  {
+    "id": 11,
+    "name": "Nicolina",
+    "yearOfBirth": 2007
+  },
+  {
+    "id": 13,
+    "name": "Zorina",
+    "yearOfBirth": 2007
+  },
+  {
+    "id": 65,
+    "name": "Blancha",
+    "yearOfBirth": 2007
+  },
+  {
+    "id": 71,
+    "name": "Dallis",
+    "yearOfBirth": 2007
+  },
+  {
+    "id": 41,
+    "name": "Garrett",
+    "yearOfBirth": 2008
+  },
+  {
+    "id": 99,
+    "name": "Cyrillus",
+    "yearOfBirth": 2008
+  },
+  {
+    "id": 100,
+    "name": "Raina",
+    "yearOfBirth": 2008
+  },
+  {
+    "id": 50,
+    "name": "Kermie",
+    "yearOfBirth": 2009
+  },
+  {
+    "id": 53,
+    "name": "Melisa",
+    "yearOfBirth": 2009
+  },
+  {
+    "id": 76,
+    "name": "Jackie",
+    "yearOfBirth": 2009
+  },
+  {
+    "id": 83,
+    "name": "Ginnie",
+    "yearOfBirth": 2009
+  },
+  {
+    "id": 3,
+    "name": "Christel",
+    "yearOfBirth": 2010
+  },
+  {
+    "id": 8,
+    "name": "Cathie",
+    "yearOfBirth": 2010
+  },
+  {
+    "id": 67,
+    "name": "Millard",
+    "yearOfBirth": 2010
+  },
+  {
+    "id": 1,
+    "name": "Torrie",
+    "yearOfBirth": 2011
+  },
+  {
+    "id": 9,
+    "name": "Gussy",
+    "yearOfBirth": 2011
+  },
+  {
+    "id": 17,
+    "name": "Alfred",
+    "yearOfBirth": 2011
+  },
+  {
+    "id": 25,
+    "name": "Maurice",
+    "yearOfBirth": 2011
+  },
+  {
+    "id": 48,
+    "name": "Adham",
+    "yearOfBirth": 2011
+  },
+  {
+    "id": 5,
+    "name": "Willie",
+    "yearOfBirth": 2012
+  },
+  {
+    "id": 12,
+    "name": "Barclay",
+    "yearOfBirth": 2012
+  },
+  {
+    "id": 18,
+    "name": "Dani",
+    "yearOfBirth": 2012
+  },
+  {
+    "id": 44,
+    "name": "Vitoria",
+    "yearOfBirth": 2012
+  },
+  {
+    "id": 89,
+    "name": "Reggis",
+    "yearOfBirth": 2012
+  },
+  {
+    "id": 98,
+    "name": "Shelbi",
+    "yearOfBirth": 2012
+  },
+  {
+    "id": 26,
+    "name": "Grange",
+    "yearOfBirth": 2013
+  }
+]
+
+db.users.find().skip(5).limit(5)
